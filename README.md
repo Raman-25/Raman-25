@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ramandeep+Singh;BTech+AIML+Student+@+GJUST;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hello World! I'm Ramandeep Singh</h1>
+<h1 align="center">👋 I'm Ramandeep Singh</h1>
 <h3 align="center">💻 Passionate Developer | 🎓 AIML Student @ GJUST</h3>
 
 ---
