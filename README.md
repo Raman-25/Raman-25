@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Ramandeep+Singh+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Artificial+Intelligence;Building+one+project+at+a+time." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Ramandeep+Singh+%F0%9F%91%8B;" alt="Typing introduction" />
 </p>
 
 <p align="center">
