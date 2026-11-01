@@ -10,8 +10,7 @@
   <a href="mailto:ramandeepsingh.dev8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ramandeepsingh.dev8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
-  <!-- Replace YOUR-LINKEDIN-USERNAME with your LinkedIn profile username -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/ramandeep-singh-b6714a448/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
